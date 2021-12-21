@@ -1,0 +1,32 @@
+body {
+
+background-image: url("R.JPG")
+
+}
+
+p
+{
+text-align: center;
+color: white;
+font-family: "arial nova"
+}
+
+h1
+{
+text-align: center;
+color: white;
+font-family: times new roman;
+}
+
+h2
+{
+text-align:center;
+color:dark-grey;
+font-family:times new roman;
+}
+
+
+
+table,th,td {
+border: 2px solid black;
+}
